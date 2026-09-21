@@ -1,4 +1,4 @@
-Python4Physics 2025 — Computational Physics
+ Python4Physics 2025 — Computational Physics
 
 A collection of my work, learning materials, and reflections from the Python4Physics 2025 program at the University of California, Berkeley.
 
@@ -22,9 +22,9 @@ During the program, I explored topics ranging from particle physics and astrophy
 - 🔬 Higgs Mechanism
 - 🌑 Axions and Dark Matter
 
-💻 Computational Work
+💻 Computational Projects
 
-Some of the computational activities included:
+The program included several computational exercises and simulations:
 
 - Neutron decay simulation
 - Statistical analysis and histogram construction
@@ -33,32 +33,25 @@ Some of the computational activities included:
 - Ising model simulations
 - Numerical solution of differential equations
 
-The program provided an opportunity to explore how computational techniques can be used to model and investigate physical systems.
-
 📂 Documents
-
-The following documents are included in this repository:
-
-Document| Description
-📄 "Python4Physics Report" (./Python4Physics.pdf)| Detailed report covering the program, topics studied, computational projects, and personal reflections
-🏆 "Certificate of Participation" (./ShahNawazAli.pdf)| Certificate of participation in the Python4Physics 2025 program
-🌌 "Computing the Cosmos" (./Computing%20the%20Cosmos.pdf)| Presentation/document related to the program
 
 📄 Python4Physics Report
 
-"View the full report →" (./Python4Physics.pdf)
+A detailed report documenting the program, topics studied, computational projects, and reflections.
 
-The report documents the 10-day program, including Python fundamentals, statistics, astrophysics, particle decay, gravitational waves, the Ising model, the Standard Model, and dark matter.
+"📖 View Python4Physics Report" (/Python4Physics.pdf)
 
-🏆 Certificate
+🏆 Certificate of Participation
 
-"View Certificate →" (./ShahNawazAli.pdf)
+Certificate of participation in the Python4Physics 2025 program.
 
-Certificate of Participation in the 2025 Remote Experience for Young Engineers and Scientists (REYES) as part of the Python4Physics program.
+"🏆 View Certificate" (/ShahNawazAli.pdf)
 
 🌌 Computing the Cosmos
 
-"View Computing the Cosmos →" (./Computing%20the%20Cosmos.pdf)
+Programme highlights related to my computational physics experience.
+
+"🌌 View Computing the Cosmos" (/Computing_the_Cosmos.pdf)
 
 🛠️ Tools & Technologies
 
@@ -66,13 +59,10 @@ Python
 NumPy
 Matplotlib
 SciPy
-Jupyter Notebook
 
 🎓 Learning Outcomes
 
-This program strengthened my understanding of how programming and computational techniques can be applied to physics.
-
-It provided practical exposure to:
+This program provided practical exposure to:
 
 - Numerical modelling
 - Scientific computing
@@ -80,6 +70,8 @@ It provided practical exposure to:
 - Curve fitting
 - Physics simulations
 - Computational problem-solving
+
+It strengthened my understanding of how programming and computational techniques can be applied to physics problems.
 
 🌟 Key Takeaway
 
