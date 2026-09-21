@@ -39,7 +39,7 @@ The program included several computational exercises and simulations:
 
 A detailed report documenting the program, topics studied, computational projects, and reflections.
 
-"📖 View Python4Physics Report" (/Python4Physics.pdf)
+[![📖 View Python4Physics Report](https://github.com/ShahnawazAli07655/Python-4-Physics-2025/blob/main/Computing_the_Cosmos.pdf)
 
 🏆 Certificate of Participation
 
