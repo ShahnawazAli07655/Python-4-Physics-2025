@@ -1,52 +1,64 @@
 Python4Physics 2025 — Computational Physics
 
-A collection of learning materials, computational projects, and reflections from my participation in the Python4Physics 2025 program at the University of California, Berkeley.
+A collection of my work, learning materials, and reflections from the Python4Physics 2025 program at the University of California, Berkeley.
 
-📌 About the Program
+📌 About
 
-Python4Physics 2025 was a 10-day program that explored the application of computational methods to problems across modern physics. Python was used as the primary computational tool, with libraries such as NumPy, Matplotlib, and SciPy.
+Python4Physics 2025 was a 10-day program focused on applying computational methods and Python programming to problems in modern physics.
 
-The program was conducted as part of the 2025 Remote Experience for Young Engineers and Scientists (REYES) program in August 2025.
+During the program, I explored topics ranging from particle physics and astrophysics to gravitational waves, condensed matter physics, and dark matter, using Python as the primary computational tool.
 
 🚀 Topics Covered
 
-During the program, I explored a range of topics connecting theoretical physics with computational techniques:
-
-- 🐍 Python fundamentals
-- 📊 Statistics and data analysis
-- 🌌 Astrophysics and the Cosmic Microwave Background
-- ⚛️ Particle physics and neutron decay
-- 📈 Resonance phenomena and the Breit–Wigner distribution
-- 🌊 Gravitational waves
-- 🧲 Ising model and spin systems
-- ∫ Differential and integral calculus
+- 🐍 Python Fundamentals
+- 📊 Statistics in Physics
+- 🌌 Astrophysics and Cosmic Microwave Background
+- ⚛️ Particle Decay
+- 📈 Breit–Wigner Distribution and Resonances
+- 🌊 Gravitational Waves
+- 🧲 Ising Model and Spin Systems
+- ∫ Differential and Integral Calculus
 - ⚛️ Standard Model of Particle Physics
-- 🔬 Higgs mechanism and spontaneous symmetry breaking
-- 🌑 Axions and dark matter
+- 🔬 Higgs Mechanism
+- 🌑 Axions and Dark Matter
 
-💻 Computational Projects
+💻 Computational Work
 
-The program included several computational exercises and simulations, including:
+Some of the computational activities included:
 
-1. Particle Decay Simulation
+- Neutron decay simulation
+- Statistical analysis and histogram construction
+- Breit–Wigner curve fitting
+- Gravitational-wave template matching
+- Ising model simulations
+- Numerical solution of differential equations
 
-A numerical simulation of neutron decay using the conservation of energy and momentum.
+The program provided an opportunity to explore how computational techniques can be used to model and investigate physical systems.
 
-2. Breit–Wigner Curve Fitting
+📂 Documents
 
-Exploration of resonance phenomena using the Breit–Wigner distribution and curve-fitting techniques with SciPy.
+The following documents are included in this repository:
 
-3. Gravitational Wave Analysis
+Document| Description
+📄 "Python4Physics Report" (./Python4Physics.pdf)| Detailed report covering the program, topics studied, computational projects, and personal reflections
+🏆 "Certificate of Participation" (./ShahNawazAli.pdf)| Certificate of participation in the Python4Physics 2025 program
+🌌 "Computing the Cosmos" (./Computing%20the%20Cosmos.pdf)| Presentation/document related to the program
 
-Matching theoretical gravitational-wave templates with simulated data, providing an introduction to computational approaches used in gravitational-wave detection.
+📄 Python4Physics Report
 
-4. Ising Model
+"View the full report →" (./Python4Physics.pdf)
 
-Simulation and analysis of spin systems using the Ising model, including nearest- and next-nearest-neighbor interactions.
+The report documents the 10-day program, including Python fundamentals, statistics, astrophysics, particle decay, gravitational waves, the Ising model, the Standard Model, and dark matter.
 
-5. Numerical Differential Equations
+🏆 Certificate
 
-Application of computational methods to solve differential equations numerically.
+"View Certificate →" (./ShahNawazAli.pdf)
+
+Certificate of Participation in the 2025 Remote Experience for Young Engineers and Scientists (REYES) as part of the Python4Physics program.
+
+🌌 Computing the Cosmos
+
+"View Computing the Cosmos →" (./Computing%20the%20Cosmos.pdf)
 
 🛠️ Tools & Technologies
 
@@ -54,45 +66,36 @@ Python
 NumPy
 Matplotlib
 SciPy
+Jupyter Notebook
 
-📂 Repository Contents
+🎓 Learning Outcomes
 
-File| Description
-"Python4Physics.pdf"| Report documenting my Python4Physics 2025 experience, topics, projects, and reflections
-"ShahNawazAli.pdf"| Certificate of Participation from the Python4Physics program
-"Computing_the_Cosmos.pdf"| Programme highlights
+This program strengthened my understanding of how programming and computational techniques can be applied to physics.
 
-📚 Learning Outcomes
+It provided practical exposure to:
 
-Through this program, I developed a stronger understanding of how computational methods can be applied to physics problems. The experience included numerical modelling, statistical analysis, curve fitting, simulations, and computational exploration of physical systems.
+- Numerical modelling
+- Scientific computing
+- Data analysis
+- Curve fitting
+- Physics simulations
+- Computational problem-solving
 
-The program also strengthened my interest in computational physics and demonstrated how programming can be used as a tool for scientific investigation.
+🌟 Key Takeaway
 
-🌟 Key Takeaways
-
-«Computation is not only a programming skill—it is a powerful tool for exploring and understanding physics.»
-
-Some of the concepts that particularly interested me were:
-
-- Simulation of the Ising model
-- Computational modelling of gravitational waves
-- Statistical methods in physics
-- Numerical modelling of physical systems
-- Connections between particle physics, astrophysics, and cosmology
-
-🎓 Certificate
-
-I participated in the Python4Physics 2025 program as part of the REYES 2025 Remote Experience for Young Engineers and Scientists program.
+«Computation provides a powerful bridge between theoretical concepts and practical exploration in physics.»
 
 👤 Author
 
 Shah Nawaz Ali
 
 Physics Postgraduate
-Interests: Physics • Astrophysics • Astronomy • Programming
+
+Interests:
+Astrophysics • Astronomy • Computational Physics • Programming
 
 ---
 
-⭐ This repository documents my learning journey and computational exploration during Python4Physics 2025.
+⭐ A record of my computational physics learning journey through Python4Physics 2025.
 
-#Physics #ComputationalPhysics #Python #Astrophysics #Astronomy #ScientificComputing #Python4Physics
+#Python4Physics #ComputationalPhysics #Python #Physics #Astrophysics #Astronomy #ScientificComputing
