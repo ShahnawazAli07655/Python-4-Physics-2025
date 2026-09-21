@@ -41,17 +41,23 @@ A detailed report documenting the program, topics studied, computational project
 
 [📖 View Python4Physics Report](https://github.com/ShahnawazAli07655/Python-4-Physics-2025/blob/main/Python4Physics.pdf)
 
+
+
 🏆 Certificate of Participation
 
 Certificate of participation in the Python4Physics 2025 program.
 
 [🏆 View Certificate](/ShahNawazAli.pdf)
 
+
+
 🌌 Computing the Cosmos
 
 Programme highlights related to my computational physics experience.
 
 [🌌View Computing the Cosmos](https://github.com/ShahnawazAli07655/Python-4-Physics-2025/blob/main/Computing_the_Cosmos.pdf)
+
+
 
 🛠️ Tools & Technologies
 
